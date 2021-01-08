@@ -8,11 +8,11 @@ With the use of techologies
   - Bringing a better online shopping experiences 
 
 # Business Values:
-People are more expecting a healthy life now a days, doing exercise is becoming a part of out daily life as it is a way to keep us healthy.
-  -  Foreseeing the sports wear industry will grow more rapidly in coming years.
-  -  Bridging the sports wear industal with AI through online shopping platforms.
-  - Enable the use of computer-vision to bring conveniences to consumers.
-  - To be an independent, credible source the consumers can always rely on when they compare sports wear products online.
+People are more expecting a healthy life now a days, doing exercise is becoming a part of out daily life as it is a way to keep us healthy
+  -  Foreseeing the sports wear industry will grow more rapidly in coming years
+  -  Bridging the sports wear industal with AI through online shopping platforms
+  - Enable the use of computer-vision to bring conveniences to consumers
+  - To be an independent, credible source the consumers can always rely on when they compare sports wear products online
 
 # Data Collection:
 ### Web-Scraping
@@ -63,6 +63,30 @@ Category(9)
 ### Web-app Architechtrue
 <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Web-app%20architechtrue.png" width="750" height="250" />
 
+- Set user image input as array
+- Load the yolov4 and VGG16 models into Streamlit and carry out object detection and similarity analysis for recommendation
+- Create an interactive layouts
+- Deployment has been done and generated the outputs
+
 ### Streamlit web-app display <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/streamlit.png" width="100" height="70" />
 <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/web-app%20show.png" width="250" height="250" /> <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/web-app%20show2.png" width="250" height="250" /> <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/web-app%20show3.png" width="250" height="250" />
 
+# Conclusion
+  - Detect images with accuracy of 89% by using yolov4 model
+  - Able to make recommendations by using model of  transferring learning on VGG16
+  - With the use of Streamlit we can deploy our model for users
+  
+# Challenges & Future Extensions
+###Challenges
+  - Diffculties of acquiring data from different websites
+  - Takes time for image segmentation and image labeling
+  - Time consuming for model training
+  - Limit of computing power
+  
+### Future Extensions
+  - Acquire more data to improve the accuracy
+  - Increase the number of categories and features for the model
+  - Enhance the model with more sports wear brands
+  - Enable video and webcam detection functions
+  - Form a forum to allow users share information and to attract new users
+  

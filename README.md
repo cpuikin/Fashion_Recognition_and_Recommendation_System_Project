@@ -15,11 +15,11 @@ People are more expecting a healthy life now a days, doing exercise is becoming 
   - To be an independent, credible source the consumers can always rely on when they compare sports wear products online.
 
 # Data Collection:
-Web-Scraping
+### Web-Scraping
   -  From 4 different websites (adidas offical, asos, amazon, Taobao.com)
   - over 8000 images
 
-Attribute selection
+### Attribute selection
 Category(9) 
   - Adidas   - Shorts
   - Short-T  - Pants
@@ -27,13 +27,13 @@ Category(9)
   - Polo-T   - Jacket
   - Hoodie
 
-Data Cleaing
+### Data Cleaing
   - filling the missing image links
   - remove the missing data row
   - remove row with outliers
   - remove corrupted data of showing errors etc
 
-Image labelling
+### Image labelling
   - label all image files with 'LabelImg' for yolov4 model
 
 # Yolov4 model evaluation

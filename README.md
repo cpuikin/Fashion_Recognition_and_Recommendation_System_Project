@@ -54,3 +54,12 @@ Category(9)
 - running time: ~5h
 - mAP: ~67%
 
+# Keras VGG16 model
+<img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Screenshot%202021-01-08%20at%2014.09.45.png" width="300" height="300" />
+
+- Accruracy : ~71%
+
+# Deployment
+  - Streamlit
+<img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Screenshot%202021-01-08%20at%2014.14.45.png" width="300" height="300" /> <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Screenshot%202021-01-08%20at%2014.15.05.png" width="300" height="300" /> <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Screenshot%202021-01-08%20at%2014.15.12.png" width="300" height="300" />
+

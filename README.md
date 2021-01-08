@@ -42,13 +42,14 @@ Category(9)
 
 # Yolov4 model evaluation
 
-<img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Screenshot%202021-01-08%20at%2014.01.02.png" width="200" height="200" />
+<img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Screenshot%202021-01-08%20at%2014.01.02.png" width="300" height="300" />
 
 - Yolov4-Darknet53
 - running time: ~13h
 - mAP: ~ 89%
 
-<img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Screenshot%202021-01-08%20at%2014.01.18.png" width="200" height="200" />
+<img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Screenshot%202021-01-08%20at%2014.01.18.png" width="300" height="300" />
+
 - Yolov4-Tiny
 - running time: ~5h
 - mAP: ~67%

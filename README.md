@@ -83,7 +83,7 @@ Category(9)
   - Time consuming for model training
   - Limit of computing power
   
-### Future Extensions
+### Next Step
   - Acquire more data to improve the accuracy
   - Increase the number of categories and features for the model
   - Enhance the model with more sports wear brands

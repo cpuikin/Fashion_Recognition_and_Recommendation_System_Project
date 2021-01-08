@@ -21,10 +21,10 @@ Web-Scraping
 
 Attribute selection
 Category(9) 
-  - Adidas  • Shorts
-  - Short-T • Pants
-  - Long-T • SportBra
-  - Polo-T • Jacket
+  - Adidas   - Shorts
+  - Short-T  - Pants
+  - Long-T   - SportBra
+  - Polo-T   - Jacket
   - Hoodie
 
 Data Cleaing
@@ -37,3 +37,4 @@ Image labelling
   - label all image files with 'LabelImg' for yolov4 model
 
 # Yolov4 model evaluation
+

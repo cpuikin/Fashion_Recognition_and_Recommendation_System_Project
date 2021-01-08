@@ -41,14 +41,15 @@ Category(9)
   - label all image files with 'LabelImg' for yolov4 model
 
 # Yolov4 model evaluation
-![img](https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Screenshot%202021-01-08%20at%2014.01.02.png)
+![yolov4img](https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Screenshot%202021-01-08%20at%2014.01.02.png)
 
-Yolov4-Darknet53
-running time: ~13h
-mAP: ~ 89%
+- Yolov4-Darknet53
+- running time: ~13h
+- mAP: ~ 89%
 
-![img](https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Screenshot%202021-01-08%20at%2014.01.18.png)
+![yolov4img](https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Screenshot%202021-01-08%20at%2014.01.18.png)
 
-Yolov4-Tiny
-running time: ~5h
-mAP: ~67%
+- Yolov4-Tiny
+- running time: ~5h
+- mAP: ~67%
+

@@ -63,6 +63,6 @@ Category(9)
 ### Web-app Architechtrue
 <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Web-app%20architechtrue.png" width="750" height="250" />
 
-### Streamlit web-app display <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/streamlit.png" width="70" height="50" />
+### Streamlit web-app display <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/streamlit.png" width="100" height="70" />
 <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/web-app%20show.png" width="250" height="250" /> <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/web-app%20show2.png" width="250" height="250" /> <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/web-app%20show3.png" width="250" height="250" />
 

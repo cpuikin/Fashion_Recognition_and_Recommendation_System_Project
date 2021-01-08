@@ -21,10 +21,14 @@ People are more expecting a healthy life now a days, doing exercise is becoming 
 
 ### Attribute selection
 Category(9) 
-  - Adidas   - Shorts
-  - Short-T  - Pants
-  - Long-T   - SportBra
-  - Polo-T   - Jacket
+  - Adidas 
+  - Shorts
+  - Short-T  
+  - Pants
+  - Long-T   
+  - SportBra
+  - Polo-T   
+  - Jacket
   - Hoodie
 
 ### Data Cleaing
@@ -38,3 +42,4 @@ Category(9)
 
 # Yolov4 model evaluation
 
+Yolov4-Darknet53 

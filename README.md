@@ -40,7 +40,7 @@ Category(9)
 ### Image labelling
   - label all image files with 'LabelImg' for yolov4 model
 
-# Yolov4 model evaluation <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/yolo.png" width="50" height="50" />
+# Yolov4 model evaluation <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/yolo.png" width="70" height="50" />
 
 <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/yolov4-darknet53.png" width="300" height="300" />
 
@@ -54,14 +54,14 @@ Category(9)
 - running time: ~5h
 - mAP: ~67%
 
-# Keras VGG16 model <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Keras.png" width="50" height="50" />
+# Keras VGG16 model <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Keras.png" width="100" height="50" />
 <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/kerasVGG16.png" width="300" height="300" />
 
 - Accruracy : ~71%
 
 # Deployment
 ### Web-app Architechtrue
-<img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Web-app%20architechtrue.png" width="250" height="250" />
+<img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Web-app%20architechtrue.png" width="750" height="250" />
 
 ### Streamlit web-app display  
 <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/web-app%20show.png" width="250" height="250" /> <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/web-app%20show2.png" width="250" height="250" /> <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/web-app%20show3.png" width="250" height="250" />

@@ -76,7 +76,7 @@ Category(9)
   - Able to make recommendations by using model of  transferring learning on VGG16
   - With the use of Streamlit we can deploy our model for users
   
-# Challenges & Future Extensions
+# Challenges & Next Step
 ### Challenges
   - Diffculties of acquiring data from different websites
   - Takes time for image segmentation and image labeling

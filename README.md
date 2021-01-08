@@ -61,5 +61,6 @@ Category(9)
 
 # Deployment
   - Streamlit
-<img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Screenshot%202021-01-08%20at%2014.14.45.png" width="300" height="300" /> <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Screenshot%202021-01-08%20at%2014.15.05.png" width="300" height="300" /> <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Screenshot%202021-01-08%20at%2014.15.12.png" width="300" height="300" />
+  
+<img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Screenshot%202021-01-08%20at%2014.14.45.png" width="250" height="250" /> <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Screenshot%202021-01-08%20at%2014.15.05.png" width="250" height="250" /> <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/Screenshot%202021-01-08%20at%2014.15.12.png" width="250" height="250" />
 

@@ -77,7 +77,7 @@ Category(9)
   - With the use of Streamlit we can deploy our model for users
   
 # Challenges & Future Extensions
-###Challenges
+### Challenges
   - Diffculties of acquiring data from different websites
   - Takes time for image segmentation and image labeling
   - Time consuming for model training

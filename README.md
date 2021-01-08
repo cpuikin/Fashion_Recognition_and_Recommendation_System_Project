@@ -1,5 +1,5 @@
 # Fashion_Recognition_and_Recommendation_System_Project
-<img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/SpotDbuy-logo.png" width="170" height="70" />
+<img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/SpotDbuy-logo.png" width="570" height="270" />
 
 This is a Object detection and Recommendation System project. With 'SpotDbuy', we can be a fresh pair eyes to serch out the sport swears eith the best price in just a click, and also bring you the perfect recommendations. 'SpotDbuy' is the place you can enjoy your shopping journey with remarkable experiences. Let's show what I done.
 
@@ -92,4 +92,4 @@ Category(9)
   - Form a forum to allow users share information and to attract new users
   
  # Project Pitch
- <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/SpotDbuy-pitch.png" width="300" height="300" />
+ <img src="https://github.com/cpuikin/Fashion_Recognition_and_Recommendation_System_Project/blob/main/image/SpotDbuy-pitch.png" width="600" height="600" />
